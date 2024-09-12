@@ -1,0 +1,35 @@
+.outbox{
+    background-color:black;
+    width:100%;
+    height: 700px;
+    padding: 10px;
+}
+.ib1{
+    width: 40%;
+    height: 150px;
+    background-color: azure;
+    margin: 10px;
+    float: left;
+}
+.ib2{
+    width: 40%;
+    height: 150px;
+    background-color: rgb(27, 195, 195);
+    margin: 10px;
+    float: left;
+
+}
+.ib3{
+    width: 40%;
+    height: 150px;
+    background-color: rgb(56, 254, 12);
+    float: left;
+    margin: 10px;
+}
+.ib4{
+    width: 40%;
+    height: 150px;
+    background-color: rgb(255, 1, 221);
+    float: left;
+    margin: 10px;
+}
